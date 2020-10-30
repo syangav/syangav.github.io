@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science, Hong Kong University of Science and Technology, Hong Kong SAR, China, 2019
+* M.S. in Systems, Control and Robotics, KTH Royal Institute of Technology, Stockholm, Sweden, expected 2021
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun. 2020 - Sep. 2020: Summer Research Assistant 
+  * Zhengjiang University 
+  * Working on: Motion planning and trajectory optimization for quadrotors 
+  * Supervisor: Prof. Dr. Fei Gao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2020 - Jun. 2020: Research Assistant
+  * KTH Royal Institute of Technology
+  * Working on: Adaptive gradient descent method with proximal mapping
+  * Supervisor: Prof. Dr. Mikael Johansson 
+
+* Jan. 2020 - Jun. 2020: Project Course
+  * KTH Royal Institute of Technology
+  * Working on: Multi-agent path planning, coordination and cooperation
+  * Instructor: Prof. Dr. Petter Ogren
+
+* Feb. 2019 - Jun. 2019: Graduate Project Course
+  * Hong Kong University of Science and Technology
+  * Working on: Quadrotor controller simulation, minimum snap trajectory generation, EKF on quadrotor for state estimation
+  * Instructor: Prof. Dr. Shaojie Shen
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C/C++
+  * ROS
+  * Python
+  * Matlab 
+  * LATEX
+  * C#
+* PCB designing and soldering
+
+Languages
+======
+* Mandarin: Native 
+* English: Bilingual in speaking, strong reading and writing. 
 
 Publications
 ======
@@ -42,18 +58,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
